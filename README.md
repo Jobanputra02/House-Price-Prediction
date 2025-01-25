@@ -1,0 +1,1 @@
+This project focuses on building a predictive model to estimate house prices based on multiple factors. By utilizing Python and Jupyter Notebook, the project demonstrates how machine learning techniques, such as multivariable regression, can analyze and predict property values effectively.
